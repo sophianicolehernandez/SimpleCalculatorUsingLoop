@@ -1,0 +1,14 @@
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\bin\Debug\net6.0\SimpleCalculatorUsingLoop.exe
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\bin\Debug\net6.0\SimpleCalculatorUsingLoop.deps.json
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\bin\Debug\net6.0\SimpleCalculatorUsingLoop.runtimeconfig.json
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\bin\Debug\net6.0\SimpleCalculatorUsingLoop.dll
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\bin\Debug\net6.0\SimpleCalculatorUsingLoop.pdb
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\SimpleCalculatorUsingLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\SimpleCalculatorUsingLoop.AssemblyInfoInputs.cache
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\SimpleCalculatorUsingLoop.AssemblyInfo.cs
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\SimpleCalculatorUsingLoop.csproj.CoreCompileInputs.cache
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\SimpleCalculatorUsingLoop.dll
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\refint\SimpleCalculatorUsingLoop.dll
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\SimpleCalculatorUsingLoop.pdb
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\SimpleCalculatorUsingLoop.genruntimeconfig.cache
+C:\Users\Sophia\source\repos\SimpleCalculatorUsingLoop\obj\Debug\net6.0\ref\SimpleCalculatorUsingLoop.dll
