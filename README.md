@@ -12,7 +12,7 @@ This project includes:
 - Able to perform math operations again.
 
 The methods I have are:
-- check if input for numbers are actually number and not null
+- check if input for numbers are actually a number and not null
 - check if input for math operations are /,*,-, or +
 - method to perform the math equation
 - method to check if the user would like to perform another math equation.
